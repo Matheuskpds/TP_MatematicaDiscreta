@@ -1,4 +1,4 @@
-#Algoritmo criado para calcular as operações lógicas binárias (AND, OR, XOR, NAD, NOR e MOR) entre duas sequências de bits de um mesmo tamanho N.  
+#Algoritmo criado para calcular as operações lógicas binárias (AND, OR, XOR, NAND, NOR e MOR) entre duas sequências de bits de um mesmo tamanho N.  
 
 #funções de cada uma das operações:
 def l_or(n, x1, x2):    
