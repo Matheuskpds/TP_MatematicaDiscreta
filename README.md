@@ -1,2 +1,2 @@
 # Primeiro_TP
- Meu primeiro TP da faculdade
+ Meu primeiro TP da faculdade feito em Python.
